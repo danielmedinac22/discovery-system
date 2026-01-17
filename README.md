@@ -220,9 +220,10 @@ Posibles causas:
 
 ## Recursos
 
-- **Artículo completo:** [Cómo Construir Un Sistema de Discovery Continuo Con Claude Code](https://productsystems.substack.com/p/discovery-system-claude-code)
-- **Framework de discovery:** [Continuous Discovery: Las 3 Propiedades Que Cambian Todo](https://productsystems.substack.com/p/continuous-discovery-habits)
-- **Claude Code para PMs:** [La Herramienta Que Nadie Te Dijo Que Necesitabas](https://productsystems.substack.com/p/claude-code-para-pms)
+- **Artículo completo:** [Cómo Construir Un Sistema de Discovery Continuo Con Claude Code](https://productsystemscondaniel.substack.com/p/discovery-system-claude-code?r=2gv0d5)
+- **Framework de discovery:** [La Diferencia Entre Hacer Discovery y Pretender Que Lo Haces](https://productsystemscondaniel.substack.com/p/la-diferencia-entre-hacer-discovery?r=2gv0d5)
+- **Cómo tomar decisiones:** [El Sistema Completo Para Tomar Decisiones de Producto](https://productsystemscondaniel.substack.com/p/como-tomar-decisiones-de-producto?r=2gv0d5)
+- **Claude Code:** [Claude No Le Ganó a OpenAI. Cambió el Juego](https://productsystemscondaniel.substack.com/p/claude-no-le-gano-a-openai-cambio?r=2gv0d5)
 
 ## Contribuciones
 
@@ -239,4 +240,4 @@ MIT License - Usa, modifica, y comparte libremente.
 
 **¿Preguntas?** Abre un issue o escríbeme en [Twitter](https://twitter.com/danielmedina).
 
-Construido por [Daniel Medina](https://productsystems.substack.com) - Product Manager que cree en sistemas, no en hype.
+Construido por [Daniel Medina](https://productsystemscondaniel.substack.com) - Product Manager que cree en sistemas, no en hype.
