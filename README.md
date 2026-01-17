@@ -230,7 +230,7 @@ Posibles causas:
 Si usas este sistema y descubres mejoras:
 1. Abre un issue describiendo el problema o sugerencia
 2. Si tienes una solución, envía un PR
-3. Comparte tu experiencia en Twitter/LinkedIn mencionando [@danielmedina](https://twitter.com/danielmedina)
+3. Comparte tu experiencia en Twitter/LinkedIn mencionando [@danielmed_2](https://twitter.com/danielmed_2)
 
 ## Licencia
 
@@ -238,6 +238,6 @@ MIT License - Usa, modifica, y comparte libremente.
 
 ---
 
-**¿Preguntas?** Abre un issue o escríbeme en [Twitter](https://twitter.com/danielmedina).
+**¿Preguntas?** Abre un issue o escríbeme en [Twitter](https://twitter.com/danielmed_2).
 
 Construido por [Daniel Medina](https://productsystemscondaniel.substack.com) - Product Manager que cree en sistemas, no en hype.
